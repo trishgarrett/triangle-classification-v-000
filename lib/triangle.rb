@@ -11,7 +11,7 @@ class Triangle
     if side_one == side_two && side_one == side_three & side_two == side_three
       equilateral
     elsif
-
+    end
   end
 
 end
